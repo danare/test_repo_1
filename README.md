@@ -4,3 +4,4 @@ commit 1
 commit 2
 commit 3
 commit 4 (after creating PR1)
+dana added in master branch to line7
